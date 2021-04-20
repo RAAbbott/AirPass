@@ -1,7 +1,6 @@
 <template>
   <div class="container">
     <div>
-      <Logo />
       <h1 class="title">
         AirPass
       </h1>
@@ -12,15 +11,15 @@
           rel="noopener noreferrer"
           class="button--green"
         >
-          Nuxt
+          Send
         </a>
         <a
           href="https://github.com/nuxt/nuxt.js"
           target="_blank"
           rel="noopener noreferrer"
-          class="button--grey"
+          class="button--grey" 
         >
-          Github
+          Receive
         </a>
       </div>
     </div>
