@@ -12,7 +12,7 @@
           rel="noopener noreferrer"
           class="button--green"
         >
-          Upload
+          Nuxt
         </a>
         <a
           href="https://github.com/nuxt/nuxt.js"
@@ -20,7 +20,7 @@
           rel="noopener noreferrer"
           class="button--grey"
         >
-          Download
+          Github
         </a>
       </div>
     </div>
